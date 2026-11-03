@@ -1,4 +1,4 @@
-Django==1.9.5
+Django==5.2.17
 psycopg2==2.6.1
 r2pipe
 django-cors-headers
